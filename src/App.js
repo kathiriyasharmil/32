@@ -6,17 +6,6 @@ function App() {
     <div className="App">
     my name is sharmil
       my name is sharmil
-      my name is sharmil
-      my name is sharmilv    my name is sharmil
-
-      my name is sharmil
-      my name is sharmil    my name is sharmil
-
-      my name is sharmil
-
-
-
-
     </div>
   );
 }
