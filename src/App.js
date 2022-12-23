@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Main from "./Main";
 
 function App() {
   return (
@@ -8,6 +9,9 @@ function App() {
         my name is sharmil
         my name is sharmil
         my name is sharmilv
+        my name is sharmil
+        my name is sharmil
+        my name is sharmil
         my name is sharmil
         master
       my name is sharmil
@@ -23,6 +27,7 @@ function App() {
         my name is sharmil
         my name is sharmil
         master
+        <Main/>
     </div>
   );
 }
